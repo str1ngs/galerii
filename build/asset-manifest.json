@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/galerii/static/css/main.f087e21c.css",
+    "main.js": "/galerii/static/js/main.5aec1efe.js",
+    "static/js/787.ee75c5ad.chunk.js": "/galerii/static/js/787.ee75c5ad.chunk.js",
+    "static/media/berlin.jpg": "/galerii/static/media/berlin.c6fd7467148a9abc2e28.jpg",
+    "static/media/paris.png": "/galerii/static/media/paris.9ac43b2a084cf9989bcb.png",
+    "static/media/london.jpg": "/galerii/static/media/london.0f035f43f5319f6bf33a.jpg",
+    "index.html": "/galerii/index.html",
+    "main.f087e21c.css.map": "/galerii/static/css/main.f087e21c.css.map",
+    "main.5aec1efe.js.map": "/galerii/static/js/main.5aec1efe.js.map",
+    "787.ee75c5ad.chunk.js.map": "/galerii/static/js/787.ee75c5ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f087e21c.css",
+    "static/js/main.5aec1efe.js"
+  ]
+}
