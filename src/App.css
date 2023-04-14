@@ -1,0 +1,14 @@
+.App > h1 {
+  text-align: center;
+  margin: 200px;
+}
+
+body {
+  background-color: rgb(210, 210, 210);
+}
+
+.thumbnail {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 5px;
+}
